@@ -2,7 +2,7 @@
 
 ### Data Analyst | Health Informatics Graduate | Pharmacy Background
 
-I am a data analyst with a background in pharmacy and a Master's in Health Information Technology. I specialize in translating complex datasets into clear, decision-ready insights — through reliable SQL reporting, governed data pipelines, and dashboards that actually get used.
+Data Analyst with 3+ years of experience, a Master's in Health Information Technology, and a background in pharmacy. I specialize in turning complex datasets into clear, decision-ready insights — through SQL reporting, governed data pipelines, and dashboards that stakeholders actually use.
 
 My experience spans healthcare and financial services, giving me a strong foundation in data quality standards, regulatory compliance reporting, and cross-functional stakeholder communication.
 
