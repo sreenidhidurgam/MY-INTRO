@@ -31,7 +31,7 @@ SSIS, SQL Stored Procedures, AWS Glue, Apache Airflow, Data Validation & Error H
 AWS Redshift, AWS Lambda, AWS CloudWatch
 
 **Healthcare Knowledge** *(from M.S. HIT curriculum)*
-HL7/FHIR, ICD-9/10 coding, EHR Systems, Health Informatics Standards, HIPAA Compliance Awareness
+HL7/FHIR, ICD-9/10 coding, Clinical NLP, EHR Systems (Epic, OpenMRS, OpenEMR, REDCap), Predictive Modeling, HIPAA Compliance 
 
 **Core Practices**
 Data Warehousing · Data Governance · KPI Monitoring · Requirement Gathering (SME) · Stakeholder Reporting · Regulatory Compliance Reporting
