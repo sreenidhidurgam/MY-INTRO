@@ -10,7 +10,7 @@ My experience spans healthcare and financial services, giving me a strong founda
 
 🏥 **Currently:** Data Analyst at Baygrape Technology — delivering analytics across mortgage risk and clinical data domains
 
-🎓 **Education:** M.S. Health Information Technology, University of Maryland Baltimore County &nbsp;|&nbsp; B.S. Pharmacy
+🎓 **Education:** M.S. Health Information Technology, University of Maryland Baltimore County &nbsp;|&nbsp; B.S. Pharmacy, JNTUH
 
 🔍 **Targeting:** Health IT · Clinical Analytics · Healthcare Data Analyst roles
 
